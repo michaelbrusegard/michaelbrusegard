@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Michael Brusegard</h1>
-<h3 align="center">An aspiring developer and currently a Computer Science student at the Norwegian University of Science and Technology - NTNU.</h3>
+<h1 align="left">Hi there 👋, I'm Michael</h1>
+<h3 align="left">An aspiring developer and currently a Computer Science student at the Norwegian University of Science and Technology - NTNU.</h3>
+<img align="right" alt="michaelbrusegard" width="400" src="https://user-images.githubusercontent.com/56915010/234749918-91c29476-3e2b-4456-b08f-7e30621a2820.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelbrusegard&label=Profile%20views&color=ff0000&style=flat" alt="michaelbrusegard" /> </p>
 
 - 🔭 I’m currently working on [NiclasNordlundPhotography](https://github.com/michaelbrusegard/NiclasNordlundPhotography).
