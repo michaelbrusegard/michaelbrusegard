@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NiclasNordlundPhotography](https://github.com/michaelbrusegard/NiclasNordlundPhotography).
 
-- 🌱 I’m currently learning GitHub Actions, Next.js, Tailwind CSS, Node.js, Google Cloud Storage/App-Engine, javafx and Moviepy.
+- 🌱 I’m currently learning GitHub Actions, Next.js, Tailwind CSS, Node.js, Google Cloud Storage/App-Engine, javafx and ffmpeg.
 
 - 👯 I’m looking to collaborate on [RedditShortVideoMaker](https://github.com/michaelbrusegard/RedditShortVideoMaker).
 
