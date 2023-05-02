@@ -17,7 +17,7 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
 
 - 📫 How to reach me: boast_doves.0v@icloud.com
 
-- ⚡ Fun fact: Ctrl + C, Ctrl + V, and coffee.
+- ⚡ My toolkit: Ctrl + C, Ctrl + V, and coffee.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
