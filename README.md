@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: boast_doves.0v@icloud.com
 
-- ⚡ Fun fact: I can talk about almost anything for hours.
+- ⚡ Fun fact: Ctrl + C, Ctrl + V, and coffee.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
