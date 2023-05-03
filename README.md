@@ -24,6 +24,7 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
 <a href="https://linkedin.com/in/michaelbrusegard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelbrusegard" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/michaelbrusegard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="michaelbrusegard" height="30" width="40" /></a>
 <a href="https://fb.com/michaelbrusegard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michaelbrusegard" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/michaelbrusegard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="michaelbrusegard" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
