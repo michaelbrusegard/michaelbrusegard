@@ -15,7 +15,7 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
 
 - 💬 Ask me about music, fitness & sport, gaming or anything tech related.
 
-- 📫 How to reach me: boast_doves.0v@icloud.com
+- 📫 How to reach me: dev@michaelbrusegard.com
 
 - ⚡ My toolkit: Ctrl + C, Ctrl + V, and coffee.
 
