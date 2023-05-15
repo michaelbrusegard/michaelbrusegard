@@ -7,7 +7,7 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
 
 - 🔭 I’m currently working on [NiclasNordlundPhotography](https://github.com/michaelbrusegard/NiclasNordlundPhotography) and [DevOps NTNU Hackerspace Website](https://github.com/hackerspace-ntnu/website).
 
-- 🌱 I’m currently learning GitHub Actions, Next.js, Tailwind CSS, Node.js, Google Cloud Storage/App-Engine, javafx and ffmpeg.
+- 🌱 I’m currently learning Next.js, Tailwind CSS, Three.js, Google Cloud Storage + App-Engine, WebGL Fluid Simulation Firebase and java.
 
 - 👯 I’m looking to collaborate on [RedditShortVideoMaker](https://github.com/michaelbrusegard/RedditShortVideoMaker).
 
