@@ -57,6 +57,7 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
   <a href="https://affinity.serif.com/photo/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240469904-fc1d4d34-8b01-4d4b-b8d2-c24db499d962.svg" alt="Affinity Photo" width="60" height="60"/></a>
   <a href="https://affinity.serif.com/designer/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240469914-fd1a028e-46ce-4d03-a2df-013b7e146875.svg" alt="Affinity Designer" width="60" height="60"/></a>
   <a href="https://www.shapr3d.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240469974-1eae5cbc-3679-4790-a4b0-026f539b6771.svg" alt="Shapr3D" width="60" height="60"/></a>
+  <a href="https://openai.com/blog/chatgpt/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240486785-5b1ec46b-7221-425a-a0ab-223201cce782.svg" alt="ChatGPT" width="60" height="60"/></a>
 </p>
 
 <br/>
