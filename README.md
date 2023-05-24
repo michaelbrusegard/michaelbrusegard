@@ -37,6 +37,16 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240465889-9c546449-0e7c-45cd-b154-639c3165acc6.svg" alt="Firebase" width="60" height="60"/></a>
 </p>
 
+<h3 align="left">Backend:</h3>
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240467216-d1bb9488-d26c-4047-987b-92ddabcbfdb8.svg" alt="Node.js" width="60" height="60"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240467225-d045420e-cf26-489d-b55f-c255bf0de3df.svg" alt="Python" width="60" height="60"/></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240467237-1a3334e9-db0c-4d8b-a145-61eb932932fd.svg" alt="Java" width="60" height="60"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240467275-8a6709e6-651c-485b-99ae-fe469113352e.svg" alt="Express" width="60" height="60"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240467288-cb538b22-89d2-451e-b4f1-77874e7e6713.svg" alt="Django" width="60" height="60"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240467299-37553c70-1c3c-4f42-a2fc-521cb0a31d0e.svg" alt="Next.js" width="60" height="60"/></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&theme=github_dark&locale=en&layout=compact&count_private=true" alt="michaelbrusegard" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&theme=github_dark&locale=en&count_private=true" alt="michaelbrusegard" /></p>
