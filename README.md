@@ -28,7 +28,7 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240462027-3296b9df-38f5-4daa-961a-429abd53ad29.svg" alt="Typescript" width="60" height="60"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240463267-8b1abf10-5a29-4868-bc1b-8220de9db081.svg" alt="React" width="60" height="60"/></a>
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240480964-bdac93be-5b08-4edf-a3da-10563e964c7c.svg" alt="Framer Motion" width="60" height="60"/></a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240463257-f3dcb677-aa96-4b65-8430-000a78855d6c.svg" alt="Three.js" width="60" height="60"/></a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240481757-d977c247-a349-4e72-8dd8-52c007da3a9c.svg" alt="Three.js" width="60" height="60"/></a>
 </p>
 
 <h3 align="left">Integrations:</h3>
