@@ -47,6 +47,17 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240467299-37553c70-1c3c-4f42-a2fc-521cb0a31d0e.svg" alt="Next.js" width="60" height="60"/></a>
 </p>
 
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240469825-9bc72dfd-2fc1-40b3-97c2-f40f1d5c78aa.svg" alt="Git" width="60" height="60"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240469849-6a191d93-6fc7-4411-9c6f-79dcf014319d.svg" alt="Figma" width="60" height="60"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240469861-63ae6f64-8105-4b39-a032-f16693d6e60e.svg" alt="Linux" width="60" height="60"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240471367-922b502a-18ae-4402-95a2-8283b538001a.svg" alt="Visual Studio Code" width="60" height="60"/></a>
+  <a href="https://affinity.serif.com/photo/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240469904-fc1d4d34-8b01-4d4b-b8d2-c24db499d962.svg" alt="Affinity Photo" width="60" height="60"/></a>
+  <a href="https://affinity.serif.com/designer/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240469914-fd1a028e-46ce-4d03-a2df-013b7e146875.svg" alt="Affinity Designer" width="60" height="60"/></a>
+  <a href="https://www.shapr3d.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240469974-1eae5cbc-3679-4790-a4b0-026f539b6771.svg" alt="Shapr3D" width="60" height="60"/></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&theme=github_dark&locale=en&layout=compact&count_private=true" alt="michaelbrusegard" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&theme=github_dark&locale=en&count_private=true" alt="michaelbrusegard" /></p>
