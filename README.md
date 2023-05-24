@@ -21,10 +21,10 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
 
 <h3 align="left">Frontend:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240459987-7f32018d-3f88-4196-bfab-e533b9ffe1b7.svg" alt="HTML" width="60" height="60"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240459825-ac6cb3de-2b3a-4f68-9a3a-d1a16b827ec8.svg" alt="CSS" width="60" height="60"/> </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240459987-7f32018d-3f88-4196-bfab-e533b9ffe1b7.svg" alt="HTML" width="60" height="60"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240459825-ac6cb3de-2b3a-4f68-9a3a-d1a16b827ec8.svg" alt="CSS" width="60" height="60"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240462052-6e34b3e5-a017-43b5-9b19-3abbb68cf287.svg" alt="Tailwind CSS" width="60" height="60"/></a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240461993-8aec79ef-9e0b-4c3d-b862-e0779acc886d.svg" alt="Javascript" width="60" height="60"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240461993-8aec79ef-9e0b-4c3d-b862-e0779acc886d.svg" alt="Javascript" width="60" height="60"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240462027-3296b9df-38f5-4daa-961a-429abd53ad29.svg" alt="Typescript" width="60" height="60"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240463267-8b1abf10-5a29-4868-bc1b-8220de9db081.svg" alt="React" width="60" height="60"/></a>
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240480964-bdac93be-5b08-4edf-a3da-10563e964c7c.svg" alt="Framer Motion" width="60" height="60"/></a>
