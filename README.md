@@ -30,8 +30,15 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240463257-f3dcb677-aa96-4b65-8430-000a78855d6c.svg" alt="Three.js" width="60" height="60"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&theme=dark&locale=en&layout=compact" alt="michaelbrusegard" /></p>
+<h3 align="left">Integrations:</h3>
+<p align="left">
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240465900-efc81fd0-5e24-4a2c-bd2d-4a79c1b56121.svg" alt="Google Cloud Platform" width="60" height="60"/> </a>
+  <a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240465915-f885002b-f7b0-4556-855b-f2def86c724f.svg" alt="Stripe" width="60" height="60"/></a>
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240465889-9c546449-0e7c-45cd-b154-639c3165acc6.svg" alt="Firebase" width="60" height="60"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&theme=dark&locale=en" alt="michaelbrusegard" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&theme=github_dark&locale=en&layout=compact&count_private=true" alt="michaelbrusegard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelbrusegard&theme=dark" alt="michaelbrusegard" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&theme=github_dark&locale=en&count_private=true" alt="michaelbrusegard" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelbrusegard&theme=github_dark&count_private=true" alt="michaelbrusegard" /></p>
