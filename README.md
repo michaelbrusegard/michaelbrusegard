@@ -3,7 +3,7 @@
 According to ChatGPT, my coding skills are at 110%, my attention to detail is at 200%, and my caffeine tolerance is off the charts. However, my ability to resist memes is still a work in progress.
 
 <img align="right" alt="michaelbrusegard" width="400" src="https://user-images.githubusercontent.com/56915010/234749918-91c29476-3e2b-4456-b08f-7e30621a2820.jpeg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelbrusegard&label=Profile%20views&color=ff0000&style=flat" alt="michaelbrusegard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelbrusegard&label=Profile%20views&color=2f81f7&style=flat" alt="michaelbrusegard" /> </p>
 
 - 🔭 I’m currently working on [NiclasNordlundPhotography](https://github.com/michaelbrusegard/NiclasNordlundPhotography), [WebGL Fluid SImulation](https://github.com/michaelbrusegard/WebGL-Fluid-Simulation) and [DevOps NTNU Hackerspace Website](https://github.com/hackerspace-ntnu/website).
 
