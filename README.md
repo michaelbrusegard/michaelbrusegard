@@ -58,8 +58,15 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
   <a href="https://www.shapr3d.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56915010/240469974-1eae5cbc-3679-4790-a4b0-026f539b6771.svg" alt="Shapr3D" width="60" height="60"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&theme=github_dark&locale=en&layout=compact&count_private=true" alt="michaelbrusegard" /></p>
+<br/>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&theme=github_dark&locale=en&count_private=true" alt="michaelbrusegard" /></p>
 
+<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelbrusegard&theme=github_dark&count_private=true" alt="michaelbrusegard" /></p>
+
+<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&theme=github_dark&locale=en&layout=compact&count_private=true" alt="michaelbrusegard" /></p>
