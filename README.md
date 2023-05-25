@@ -63,11 +63,11 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
 <br/>
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&theme=github_dark&locale=en&count_private=true" alt="michaelbrusegard" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelbrusegard&theme=github_dark&count_private=true" alt="michaelbrusegard" /></p>
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelbrusegard&theme=github_dark&count_private=true" alt="michaelbrusegard" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&theme=github_dark&locale=en&count_private=true" alt="michaelbrusegard" /></p>
 
 <br/>
 
