@@ -44,16 +44,16 @@ According to ChatGPT, my coding skills are at 110%, my attention to detail is at
 <h3 align="left">Integrations:</h3>
 <p align="left">
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="./assets/integrations/googlecloudplatform.svg" alt="Google Cloud Platform" width="60" height="60"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="./assets/integrations/firebase.svg" alt="Firebase" width="60" height="60"/></a>
-    <a href="https://docs.github.com/" target="_blank" rel="noreferrer"> <img src="./assets/integrations/github.svg" alt="Github CI/CD and DevOps" width="60" height="60"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="./assets/integrations/firebase.svg" alt="Firebase" width="60" height="60"/></a>
+  <a href="https://docs.github.com/" target="_blank" rel="noreferrer"> <img src="./assets/integrations/github.svg" alt="Github CI/CD and DevOps" width="60" height="60"/></a>
   <a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="./assets/integrations/stripe.svg" alt="Stripe" width="60" height="60"/></a>
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/tools/git.svg" alt="Git" width="60" height="60"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/tools/nodepackagemanager.svg" alt="Node Package Manager" width="60" height="60"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/tools/vite.svg" alt="Vite" width="60" height="60"/></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="./assets/tools/nodepackagemanager.svg" alt="Node Package Manager" width="60" height="60"/></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="./assets/tools/vite.svg" alt="Vite" width="60" height="60"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./assets/tools/linux.svg" alt="Linux" width="60" height="60"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./assets/tools/vscode.svg" alt="Visual Studio Code" width="60" height="60"/></a>
   <a href="https://openai.com/blog/chatgpt/" target="_blank" rel="noreferrer"> <img src="./assets/tools/chatgpt.svg" alt="ChatGPT" width="60" height="60"/></a>
