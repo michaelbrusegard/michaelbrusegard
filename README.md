@@ -1,13 +1,12 @@
 <h1 align="left">Hi there 👋, I'm Michael</h1>
 <h3 align="left">A software developer and a Computer Science student at the Norwegian University of Science and Technology - NTNU.</h3>
-According to ChatGPT, my coding skills are at 110%, my attention to detail is at 200%, and my caffeine tolerance is off the charts. However, my ability to resist memes is still a work in progress.
 
 <img align="right" alt="michaelbrusegard" width="400" src="https://user-images.githubusercontent.com/56915010/234749918-91c29476-3e2b-4456-b08f-7e30621a2820.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelbrusegard&label=Profile%20views&color=2f81f7&style=flat" alt="michaelbrusegard" /> </p>
 
 - 🔭 I’m currently working on [NiclasNordlundPhotography](https://github.com/michaelbrusegard/NiclasNordlundPhotography), [WebGL Fluid Enhanced](https://github.com/michaelbrusegard/WebGL-Fluid-Enhanced) and [DevOps NTNU Hackerspace Website](https://github.com/hackerspace-ntnu/website).
 
-- 🌱 I’m currently learning Next.js, Tailwind CSS, Three.js, Google Cloud Storage + App-Engine, WebGL Fluid Simulation, Firebase and java.
+- 🌱 I’m currently learning Algorithms & Datastructures, basic RISC-V Assembly, Google Cloud Storage + App-Engine, Firebase and java.
 
 - 👯 I’m looking to collaborate on [RedditShortVideoMaker](https://github.com/michaelbrusegard/RedditShortVideoMaker).
 
