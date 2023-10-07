@@ -4,9 +4,9 @@
 <img align="right" alt="michaelbrusegard" width="400" src="https://user-images.githubusercontent.com/56915010/234749918-91c29476-3e2b-4456-b08f-7e30621a2820.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelbrusegard&label=Profile%20views&color=2f81f7&style=flat" alt="michaelbrusegard" /> </p>
 
-- 🔭 I’m currently working on [NiclasNordlundPhotography](https://github.com/michaelbrusegard/NiclasNordlundPhotography), [WebGL Fluid Enhanced](https://github.com/michaelbrusegard/WebGL-Fluid-Enhanced) and [DevOps Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website).
+- 🔭 I’m currently working on a secret fullblown Next.js + Firebase web application and [DevOps Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website).
 
-- 🌱 I’m currently learning Algorithms & Datastructures, basic RISC-V Assembly, Google Cloud Storage + App-Engine, Firebase and java.
+- 🌱 I’m currently learning Algorithms & Datastructures, basic RISC-V Assembly, Next.js, Firebase and java.
 
 - 👯 I’m looking to collaborate on [RedditShortVideoMaker](https://github.com/michaelbrusegard/RedditShortVideoMaker).
 
