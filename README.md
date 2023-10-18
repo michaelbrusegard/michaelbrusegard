@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a secret fullblown Next.js + Firebase web application and [DevOps Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website).
 
-- 🌱 I’m currently learning Algorithms & Datastructures, basic RISC-V Assembly, Next.js, Firebase and java.
+- 🌱 I’m currently learning Algorithms & Datastructures, basic RISC-V Assembly, Next.js, Firebase and Spring Boot.
 
 - 👯 I’m looking to collaborate on [RedditShortVideoMaker](https://github.com/michaelbrusegard/RedditShortVideoMaker).
 
