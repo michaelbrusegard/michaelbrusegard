@@ -56,7 +56,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker.svg" alt="Docker" width="60" height="60"/></a>
 <a href="https://docs.github.com/" target="_blank" rel="noreferrer"> <img src="./assets/github.svg" alt="GitHub" width="60" height="60"/></a>
 <a href="https://docs.gitlab.com/" target="_blank" rel="noreferrer"> <img src="./assets/gitlab.svg" alt="GitLab" width="60" height="60"/></a>
-<a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="./assets/vercel.svg" alt="Vercel" width="60" height="60"/></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="./assets/vercel.svg" alt="Vercel" width="60" height="60"/></a>
 <a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="./assets/stripe.svg" alt="Stripe" width="60" height="60"/></a>
 
 <h3 align="left">Tools:</h3>
@@ -66,7 +66,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.svg" alt="Figma" width="60" height="60"/></a>
 <a href="https://affinity.serif.com/photo/" target="_blank" rel="noreferrer"> <img src="./assets/affinityphoto.svg" alt="Affinity Photo" width="60" height="60"/></a>
 <a href="https://affinity.serif.com/designer/" target="_blank" rel="noreferrer"> <img src="./assets/affinitydesigner.svg" alt="Affinity Designer" width="60" height="60"/></a>
-<a href="https://github.com/mifi/lossless-cut" target="_blank" rel="noreferrer"> <img src="./assets/losslesscut.svg" alt="Lossless Cut" width="60" height="60"/></a>
+<a href="https://github.com/mifi/lossless-cut/" target="_blank" rel="noreferrer"> <img src="./assets/losslesscut.svg" alt="Lossless Cut" width="60" height="60"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/git.svg" alt="Git" width="60" height="60"/></a>
 
 <br/>
