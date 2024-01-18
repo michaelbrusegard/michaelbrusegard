@@ -4,9 +4,9 @@
 <img align="right" alt="michaelbrusegard" width="400" src="https://user-images.githubusercontent.com/56915010/234749918-91c29476-3e2b-4456-b08f-7e30621a2820.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelbrusegard&label=Profile%20views&color=2f81f7&style=flat" alt="michaelbrusegard" /> </p>
 
-- 🔭 I’m currently working on a secret fullstack web application using Next.js with tRCP + postgreSQL and the [DevOps Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website) which we are currently moving to react.
+- 🔭 I’m currently working on a fullstack web application using Next.js with tRCP + postgreSQL and the new [DevOps Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website-frontend).
 
-- 🌱 I’m currently learning tRPC, SQL and Docker.
+- 🌱 I’m currently learning tRPC, SQL, Docker, Kotlin and Android Mobile Development.
 
 - 👯 I’m looking to collaborate on [RedditShortVideoMaker](https://github.com/michaelbrusegard/RedditShortVideoMaker), the project has been dead for a while because I have so much going on.
 
