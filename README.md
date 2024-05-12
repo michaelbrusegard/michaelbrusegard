@@ -18,6 +18,23 @@
 
 - ⚡ My toolkit: Ctrl + C, Ctrl + V, and coffee.
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelbrusegard&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=en&count_private=true&exclude_days=Sun%2CSat&excludeDaysLabel=0D1116" alt="GitHub Streak" /></p>
+
+<br/>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="GitHub Stats" /></p>
+
+<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&hide_border=true&theme=github_dark&locale=en&layout=compact" alt="michaelbrusegard" /></p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <h3 align="left">Languages:</h3>
 <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank" rel="noreferrer"> <img src="./assets/html.svg" alt="HTML" width="60" height="60"/></a>
 <a href="https://developer.mozilla.org/docs/Web/javascript/" target="_blank" rel="noreferrer"> <img src="./assets/javascript.svg" alt="JavaScript" width="60" height="60"/></a>
@@ -68,16 +85,3 @@
 <a href="https://affinity.serif.com/designer/" target="_blank" rel="noreferrer"> <img src="./assets/affinitydesigner.svg" alt="Affinity Designer" width="60" height="60"/></a>
 <a href="https://github.com/mifi/lossless-cut/" target="_blank" rel="noreferrer"> <img src="./assets/losslesscut.svg" alt="Lossless Cut" width="60" height="60"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/git.svg" alt="Git" width="60" height="60"/></a>
-
-<br/>
-<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelbrusegard&theme=solarized-dark&count_private=true" alt="michaelbrusegard" /></p>
-
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&theme=solarized-dark&locale=en&count_private=true" alt="michaelbrusegard" /></p>
-
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&theme=solarized-dark&locale=en&layout=compact&count_private=true" alt="michaelbrusegard" /></p>
