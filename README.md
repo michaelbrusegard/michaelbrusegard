@@ -34,6 +34,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <h3 align="left">Languages:</h3>
 <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank" rel="noreferrer"> <img src="./assets/html.svg" alt="HTML" width="60" height="60"/></a>
