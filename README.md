@@ -19,13 +19,7 @@
 - ⚡ My toolkit: Ctrl + C, Ctrl + V, and coffee.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelbrusegard&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=en&count_private=true&exclude_days=Sun%2CSat&excludeDaysLabel=0D1116" alt="GitHub Streak" /></p>
-
-<br/>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="GitHub Stats" /></p>
-
-<br/>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&hide_border=true&theme=github_dark&locale=en&layout=compact" alt="michaelbrusegard" /></p>
 
 <br/>
