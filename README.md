@@ -1,83 +1,109 @@
-<h1 align="left">Hi there 👋, I'm Michael</h1>
-<h3 align="left">A software developer and a Computer Science student at the Norwegian University of Science and Technology - NTNU.</h3>
+# Michael Brusegard
 
-<img align="right" alt="michaelbrusegard" width="400" src="https://user-images.githubusercontent.com/56915010/234749918-91c29476-3e2b-4456-b08f-7e30621a2820.jpeg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelbrusegard&label=Profile%20views&color=2f81f7&style=flat" alt="michaelbrusegard" /> </p>
+Software Engineer | Bachelor Computer Science @ NTNU
 
-- 🔭 I’m currently working on a fullstack web application using Next.js with tRCP + postgreSQL and the new [DevOps Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website-frontend).
+## Projects
 
-- 🌱 I’m currently learning tRPC, SQL, Docker, Kotlin and Android Mobile Development.
+A link to all my GitHub projects with a short description of each.
 
-- 👯 I’m looking to collaborate on [RedditShortVideoMaker](https://github.com/michaelbrusegard/RedditShortVideoMaker), the project has been dead for a while because I have so much going on.
+### Libraries
 
-- 🤔 I’m looking for help with any of my public repositories.
+- **[tabline.wez](https://github.com/michaelbrusegard/tabline.wez)**  
+  A versatile and easy to use retro tab bar plugin for the WezTerm terminal emulator.
 
-- 💬 Ask me about music, fitness & sport, gaming or anything tech related.
+- **[Vector Globe](https://github.com/michaelbrusegard/vector-globe)**  
+  An interactive 3D Globe with vector lines for country/continent borders.
 
-- 📫 How to reach me: dev@michaelbrusegard.com
+- **[WebGL Fluid Enhanced](https://github.com/michaelbrusegard/WebGL-Fluid-Enhanced)**  
+  A fluid simulation library for modern web pages with an easy to follow documentation for most JavaScript frameworks.
 
-- ⚡ My toolkit: Ctrl + C, Ctrl + V, and coffee.
+### Web Development
+
+- **[Lektr](https://github.com/Lektr/website)**  
+  A web application with an advanced text editor built with Web Sockets. It is currently a WiP and not open sourced. It is built to be a tool for students to collaborate and share resources for courses at university.
+
+- **[Simple Poetry](https://github.com/michaelbrusegard/simple-poetry)**  
+  A simple web-app for viewing poetry from PoetryDB, built in a day with minimal dependencies.
+
+- **[New Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website-next)**  
+  Full-stack web application using Next.js, tRPC, and PostgreSQL. Built to be maintainable for many years to come.
+
+- **[GlobeHub](https://github.com/michaelbrusegard/Globehub)**  
+  A CRUD app for finding new travel destinations. With built-in reviews, cached weather data and an interactive map.
+
+- **[Niclas Nordlund Photography](https://github.com/michaelbrusegard/NiclasNordlundPhotography)**  
+  My first personal website project ever made. Made for the Photographer Niclas Nordlund using plain HTML, CSS, and JavaScript.
+
+- **[Hackerspace NTNU Website](https://github.com/hackerspace-ntnu/website)**  
+  The original Hackerspace NTNU Django website.
+
+### Desktop & Mobile Applications
+
+- **[Open Emoji Platform](https://github.com/ITP2-G15/OpenEmojiPlatform)**  
+  Will be open sourced at the end of May 2025 due to a NDA agreement. An Android app for the widely used Emojipedia website. Features include searching for emojis, viewing details, and copying to clipboard. As well as creation of custom emoji sequences, news & events and games.
+
+- **[Workout Planner](https://github.com/michaelbrusegard/WorkoutPlanner)**  
+  A workout planner app with a simple backend for persisting data. Features adding/reordering exercises and setting reps/sets.
+
+- **[Chinese Checkers](https://github.com/michaelbrusegard/ChineseCheckers)**  
+  Chinese Checkers board game programmed with JavaFX. Features optionally enforcing moves and highlighting possible valid moves.
+
+### Programming practice problems
+
+- **[Advent of Code 2024](https://github.com/michaelbrusegard/advent-of-code-2024)**  
+  My solutions to the Advent of Code 2024 problems in Rust.
+
+- **[LeetCode](https://github.com/michaelbrusegard/LeetCode)**  
+  A repository with all my solutions to LeetCode problems.
+
+### Configuration
+
+- **[Dotfiles](https://github.com/michaelbrusegard/dotfiles)**  
+  Configuration files for my different computers/servers. Including configuration for Code Editor, Terminal Emulator, Shell, File Manager, and more.
+
+- **[OpenCore-EFI](https://github.com/michaelbrusegard/OpenCore-EFI)**  
+  EFI configuration for running macOS on my custom-built PC. (Currently not in use, because of Apple Silicon and I am using Windows/Linux instead.)
+
+### Community
+
+- **[Awesome WezTerm](https://github.com/michaelbrusegard/awesome-wezterm)**  
+  An awesome list of resources for the WezTerm terminal emulator.
+
+### University
+
+- **[Visual Computing Fundamentals](https://github.com/michaelbrusegard/visual-computing-fundamentals)**  
+Repository for exercises in the course "Visual Computing Fundamentals" at NTNU.
+
+- **[Machine Learning](https://github.com/michaelbrusegard/machine-learning)**  
+  Repository for the machine learning course at NTNU. Contains the AIS Vessel project.
+
+- **[NTNU](https://github.com/michaelbrusegard/NTNU)**  
+  Backup and syncing of NTNU exercises and practice exams for some of my earlier courses.
+
+### Archived
+
+- **[RedditShortVideoMaker](https://github.com/michaelbrusegard/RedditShortVideoMaker)**  
+  Automated tool for creating short-form videos from Reddit content.
+
+- **[Zombie-Apocolypse](https://github.com/michaelbrusegard/Zombie-Apocalypse)**  
+  A visual simulation of a zombie apocalypse made as a collaboration in a school project.
+
+- **[Nuclear-Cow-Bomber](https://github.com/michaelbrusegard/Nuclear-Cow-Bomber)**  
+  A simple platformer game written in pygame where you run from suicide cows trying to explode you.
+
+- **[Valler-vgs-ProgMod](https://github.com/michaelbrusegard/Valler-vgs-ProgMod)**  
+  Files and exercises from the course "Programmering og modellering" at Valler vgs.
+
+### 📫 Contact
+
+- Email: <dev@michaelbrusegard.com>
+- Contact form on my [website](https://www.michaelbrusegard.com/#contact).
+- [LinkedIn](https://www.linkedin.com/in/michaelbrusegard/)
+
+---
+
+## GitHub Statistics
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelbrusegard&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=en&count_private=true&exclude_days=Sun%2CSat&excludeDaysLabel=0D1116" alt="GitHub Streak" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="GitHub Stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&hide_border=true&theme=github_dark&locale=en&layout=compact" alt="michaelbrusegard" /></p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<h3 align="left">Languages:</h3>
-<a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank" rel="noreferrer"> <img src="./assets/html.svg" alt="HTML" width="60" height="60"/></a>
-<a href="https://developer.mozilla.org/docs/Web/javascript/" target="_blank" rel="noreferrer"> <img src="./assets/javascript.svg" alt="JavaScript" width="60" height="60"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/typescript.svg" alt="TypeScript" width="60" height="60"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="./assets/python.svg" alt="Python" width="60" height="60"/></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="./assets/java.svg" alt="Java" width="60" height="60"/></a>
-
-<h3 align="left">Frontend:</h3>
-<a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank" rel="noreferrer"> <img src="./assets/css.svg" alt="CSS" width="60" height="60"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./assets/tailwindcss.svg" alt="Tailwind CSS" width="60" height="60"/></a>
-<a href="https://headlessui.com/" target="_blank" rel="noreferrer"> <img src="./assets/headlessui.svg" alt="Headless UI" width="60" height="60"/></a>
-<a href="https://www.radix-ui.com/" target="_blank" rel="noreferrer"> <img src="./assets/radixui.svg" alt="Radix UI" width="60" height="60"/></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="./assets/react.svg" alt="React" width="60" height="60"/></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="./assets/vite.svg" alt="Vite" width="60" height="60"/></a>
-<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="./assets/framermotion.svg" alt="Framer Motion" width="60" height="60"/></a>
-<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="./assets/threejs.svg" alt="Three.js" width="60" height="60"/></a>
-<a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="./assets/javafx.svg" alt="JavaFX" width="60" height="60"/></a>
-
-<h3 align="left">Backend:</h3>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="./assets/expressjs.svg" alt="Express.js" width="60" height="60"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="./assets/django.svg" alt="Django" width="60" height="60"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="./assets/spring.svg" alt="Spring" width="60" height="60"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/nextjs.svg" alt="Next.js" width="60" height="60"/></a>
-<a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="./assets/trpc.svg" alt="tRPC" width="60" height="60"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="./assets/firebase.svg" alt="Firebase" width="60" height="60"/></a>
-<a href="https://authjs.dev/" target="_blank" rel="noreferrer"> <img src="./assets/authjs.svg" alt="Auth.js" width="60" height="60"/></a>
-
-<h3 align="left">Databases:</h3>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="./assets/postgresql.svg" alt="PostgreSQL" width="60" height="60"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./assets/mysql.svg" alt="MySQL" width="60" height="60"/></a>
-<a href="https://cloud.google.com/firestore/" target="_blank" rel="noreferrer"> <img src="./assets/firestore.svg" alt="Firestore" width="60" height="60"/></a>
-<a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"> <img src="./assets/drizzleorm.svg" alt="Drizzle ORM" width="60" height="60"/></a>
-
-<h3 align="left">Infrastructure:</h3>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="./assets/googlecloudplatform.svg" alt="Google Cloud Platform" width="60" height="60"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker.svg" alt="Docker" width="60" height="60"/></a>
-<a href="https://docs.github.com/" target="_blank" rel="noreferrer"> <img src="./assets/github.svg" alt="GitHub" width="60" height="60"/></a>
-<a href="https://docs.gitlab.com/" target="_blank" rel="noreferrer"> <img src="./assets/gitlab.svg" alt="GitLab" width="60" height="60"/></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="./assets/vercel.svg" alt="Vercel" width="60" height="60"/></a>
-<a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="./assets/stripe.svg" alt="Stripe" width="60" height="60"/></a>
-
-<h3 align="left">Tools:</h3>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./assets/vscode.svg" alt="Visual Studio Code" width="60" height="60"/></a>
-<a href="https://openai.com/blog/chatgpt/" target="_blank" rel="noreferrer"> <img src="./assets/chatgpt.svg" alt="ChatGPT" width="60" height="60"/></a>
-<a href="https://excalidraw.com/" target="_blank" rel="noreferrer"> <img src="./assets/excalidraw.svg" alt="Excalidraw" width="60" height="60"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.svg" alt="Figma" width="60" height="60"/></a>
-<a href="https://affinity.serif.com/photo/" target="_blank" rel="noreferrer"> <img src="./assets/affinityphoto.svg" alt="Affinity Photo" width="60" height="60"/></a>
-<a href="https://affinity.serif.com/designer/" target="_blank" rel="noreferrer"> <img src="./assets/affinitydesigner.svg" alt="Affinity Designer" width="60" height="60"/></a>
-<a href="https://github.com/mifi/lossless-cut/" target="_blank" rel="noreferrer"> <img src="./assets/losslesscut.svg" alt="Lossless Cut" width="60" height="60"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/git.svg" alt="Git" width="60" height="60"/></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&hide_border=true&theme=github_dark&locale=en&layout=compact" alt="GitHub Languages" /></p>
