@@ -80,6 +80,9 @@ Repository for exercises in the course "Visual Computing Fundamentals" at NTNU.
 - **[NTNU](https://github.com/michaelbrusegard/NTNU)**  
   Backup and syncing of NTNU exercises and practice exams for some of my earlier courses.
 
+- **[scraping-101](https://github.com/michaelbrusegard/scraping-101)**  
+  Terminal-based web scraping tool for scraping news articles containing a specific keyword.
+
 ### Archived
 
 - **[RedditShortVideoMaker](https://github.com/michaelbrusegard/RedditShortVideoMaker)**  
