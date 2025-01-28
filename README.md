@@ -39,6 +39,12 @@ A link to all my GitHub projects with a short description of each.
 
 ### Desktop & Mobile Applications
 
+- **[Cyberfish App](https://github.com/Lektr/cyberfish-app)**  
+  A Desktop app for controlling the Cyberfish underwater ROV and displaying its camera feed over Ethernet.
+
+- **[HelicopterPong](https://github.com/michaelbrusegard/HelicopterPong)**  
+  A desktop and Android pong game with helicopters in the background.
+
 - **[Open Emoji Platform](https://github.com/ITP2-G15/OpenEmojiPlatform)**  
   Will be open sourced at the end of May 2025 due to a NDA agreement. An Android app for the widely used Emojipedia website. Features include searching for emojis, viewing details, and copying to clipboard. As well as creation of custom emoji sequences, news & events and games.
 
@@ -47,6 +53,11 @@ A link to all my GitHub projects with a short description of each.
 
 - **[Chinese Checkers](https://github.com/michaelbrusegard/ChineseCheckers)**  
   Chinese Checkers board game programmed with JavaFX. Features optionally enforcing moves and highlighting possible valid moves.
+
+### Firmware
+
+- **[Cyberfish Firmware](https://github.com/Lektr/cyberfish-firmware)**  
+  Firmware for the Cyberfish underwater ROVs Raspberry Pi for controlling the motors and camera.
 
 ### Programming practice problems
 
