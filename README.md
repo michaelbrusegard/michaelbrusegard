@@ -8,6 +8,9 @@ A link to all my GitHub projects with a short description of each.
 
 ### Libraries
 
+- **[tw-clamp-css](https://github.com/michaelbrusegard/tw-clamp-css)**
+A TailwindCSS v4 plugin that integrates the CSS clamp() functionality. 
+
 - **[tabline.wez](https://github.com/michaelbrusegard/tabline.wez)**  
   A versatile and easy to use retro tab bar plugin for the WezTerm terminal emulator.
 
