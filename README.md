@@ -45,6 +45,12 @@ A link to all my GitHub projects with a short description of each.
 - **[Cyberfish App](https://github.com/Lektr/cyberfish-app)**  
   A Desktop app for controlling the Cyberfish underwater ROV and displaying its camera feed over Ethernet.
 
+- **[Meinkraft](https://github.com/michaelbrusegard/Meinkraft)**
+  A simple voxel engine inspired by Minecraft, built with Rust and OpenGL for learning computer graphics and shaders.
+
+- **[Chess Evolved](https://github.com/michaelbrusegard/chess-evolved)**
+  An Android chess game with fancy abilities built in a computer architecture course using the Model View Presenter and Entitiy Component System architectural patterns.
+
 - **[HelicopterPong](https://github.com/michaelbrusegard/HelicopterPong)**  
   A desktop and Android pong game with helicopters in the background.
 
