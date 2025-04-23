@@ -49,7 +49,7 @@ A link to all my GitHub projects with a short description of each.
   A simple voxel engine inspired by Minecraft, built with Rust and OpenGL for learning computer graphics and shaders.
 
 - **[Chess Evolved](https://github.com/michaelbrusegard/chess-evolved)**
-  An Android chess game with fancy abilities built in a computer architecture course using the Model View Presenter and Entitiy Component System architectural patterns.
+  A mobile chess game with fancy abilities built in a computer architecture course using the Model View Presenter and Entitiy Component System architectural patterns.
 
 - **[HelicopterPong](https://github.com/michaelbrusegard/HelicopterPong)**  
   A desktop and Android pong game with helicopters in the background.
