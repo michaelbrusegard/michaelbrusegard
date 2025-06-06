@@ -68,6 +68,11 @@ A link to all my GitHub projects with a short description of each.
 - **[Manafish Firmware](https://github.com/Lektr/manafish-firmware)**  
   Firmware for the Manafish underwater ROVs Raspberry Pi for controlling the motors and camera.
 
+### Scripts
+
+- **[SiT Apartment Checker](https://github.com/michaelbrusegard/sit-apartment-checker)**
+  Simple script to check if an apartment is available from SiT and then send an SMS.
+  
 ### Programming practice problems
 
 - **[Advent of Code 2024](https://github.com/michaelbrusegard/advent-of-code-2024)**  
