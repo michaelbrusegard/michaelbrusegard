@@ -22,7 +22,7 @@ A link to all my GitHub projects with a short description of each.
 
 ### Web Development
 
-- **[Lektr](https://github.com/Lektr/website)**  
+- **[Lektr](https://github.com/michaelbrusegard/lektr)**  
   A web application with an advanced text editor built with Web Sockets. It is currently a WiP and not open sourced. It is built to be a tool for students to collaborate and share resources for courses at university.
 
 - **[Simple Poetry](https://github.com/michaelbrusegard/simple-poetry)**  
