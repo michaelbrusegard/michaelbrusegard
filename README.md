@@ -42,7 +42,7 @@ A link to all my GitHub projects with a short description of each.
 
 ### Desktop & Mobile Applications
 
-- **[Manafish App](https://github.com/Lektr/manafish-app)**  
+- **[Manafish App](https://github.com/manafishrov/app)**  
   A Desktop app for controlling the Manafish underwater ROV and displaying its camera stream over Ethernet.
 
 - **[Meinkraft](https://github.com/michaelbrusegard/Meinkraft)**
@@ -65,7 +65,7 @@ A link to all my GitHub projects with a short description of each.
 
 ### Firmware
 
-- **[Manafish Firmware](https://github.com/Lektr/manafish-firmware)**  
+- **[Manafish Firmware](https://github.com/manafishrov/firmware)**  
   Firmware for the Manafish underwater ROVs Raspberry Pi for controlling the motors and camera.
 
 ### Scripts
