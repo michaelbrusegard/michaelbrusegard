@@ -86,11 +86,11 @@ A link to all my GitHub projects with a short description of each.
 
 ### Configuration
 
-- **[Dotfiles](https://github.com/michaelbrusegard/dotfiles)**  
-  Configuration files for my different computers/servers. Including configuration for Code Editor, Terminal Emulator, Shell, File Manager, and more.
+- **[nix-config](https://github.com/michaelbrusegard/nix-config)**  
+  Personal configuration/dotfiles for computers and servers running GNU/Linux, macOS and Windows, all managed with Nix.
 
 - **[OpenCore-EFI](https://github.com/michaelbrusegard/OpenCore-EFI)**  
-  EFI configuration for running macOS on my custom-built PC. (Currently not in use, because of Apple Silicon and I am using Windows/Linux instead.)
+  EFI configuration for running macOS on my custom-built PC. (Currently not in use, because of Apple Silicon and I am dual booting Windows and Linux on the computer instead.)
 
 ### Community
 
