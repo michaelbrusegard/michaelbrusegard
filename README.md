@@ -75,8 +75,8 @@ A link to all my GitHub projects with a short description of each.
   
 ### Programming practice problems
 
-- **[Advent of Code 2024](https://github.com/michaelbrusegard/advent-of-code-2025)**  
-  My solutions to the Advent of Code 2205 problems in C.
+- **[Advent of Code 2025](https://github.com/michaelbrusegard/advent-of-code-2025)**  
+  My solutions to the Advent of Code 2025 problems in C.
 
 - **[Advent of Code 2024](https://github.com/michaelbrusegard/advent-of-code-2024)**  
   My solutions to the Advent of Code 2024 problems in Rust.
