@@ -89,6 +89,9 @@ A link to all my GitHub projects with a short description of each.
 - **[nix-config](https://github.com/michaelbrusegard/nix-config)**  
   Personal configuration/dotfiles for computers and servers running GNU/Linux, macOS and Windows, all managed with Nix.
 
+- **[qmk_userspace](https://github.com/michaelbrusegard/qmk_userspace)
+  QMK keyboard configurations for my own custom split keyboards.
+
 - **[OpenCore-EFI](https://github.com/michaelbrusegard/OpenCore-EFI)**  
   EFI configuration for running macOS on my custom-built PC. (Currently not in use, because of Apple Silicon and I am dual booting Windows and Linux on the computer instead.)
 
