@@ -141,5 +141,5 @@ Repository for exercises in the course "Visual Computing Fundamentals" at NTNU.
 <p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=michaelbrusegard&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=en&count_private=true&exclude_days=Sun%2CSat&excludeDaysLabel=0D1116" alt="GitHub Streak" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelbrusegard&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="GitHub Stats" /></p>
 
-A more accurate representation of my most used languages would probably be: TypeScript, Lua, Rust, Kotlin and Nix.
+A more accurate representation of my most used languages would probably be: TypeScript, Python, Rust, Kotlin and Nix.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbrusegard&show_icons=true&hide_border=true&theme=github_dark&locale=en" alt="GitHub Languages" /></p>
