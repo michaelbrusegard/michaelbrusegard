@@ -70,6 +70,9 @@ A link to all my GitHub projects with a short description of each.
 
 - **[Manafish Firmware](https://github.com/manafishrov/firmware)**  
   Firmware for the Manafish underwater ROVs Raspberry Pi for controlling the motors and camera.
+  
+- **[Manafish Microcontroller Firmware](https://github.com/manafishrov/microcontroller-firmware)**  
+  The firmware running on the Raspberry Pi Pico for communication between the electronic speed controllers (ESCs) and the main firmware.
 
 ### Scripts
 
