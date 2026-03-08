@@ -58,7 +58,7 @@ A link to all my GitHub projects with a short description of each.
   A desktop and Android pong game with helicopters in the background.
 
 - **[Open Emoji Platform](https://github.com/ITP2-G15/OpenEmojiPlatform)**  
-  Will be open sourced at the end of May 2025 due to a NDA agreement. An Android app for the widely used Emojipedia website. Features include searching for emojis, viewing details, and copying to clipboard. As well as creation of custom emoji sequences, news & events and games.
+  An Android app for the widely used Emojipedia website. Features include searching for emojis, viewing details, and copying to clipboard. As well as creation of custom emoji sequences, news & events and games.
 
 - **[Workout Planner](https://github.com/michaelbrusegard/WorkoutPlanner)**  
   A workout planner app with a simple backend for persisting data. Features adding/reordering exercises and setting reps/sets.
