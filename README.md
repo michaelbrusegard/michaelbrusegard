@@ -8,6 +8,9 @@ A link to all my GitHub projects with a short description of each.
 
 ### Libraries
 
+- **[Manafish UI](https://github.com/manafishrov/app)**  
+  Custom UI library for all things Manafish (desktop app and websites) written in SolidJS.
+
 - **[tw-clamp-css](https://github.com/michaelbrusegard/tw-clamp-css)**
   A TailwindCSS v4 plugin that integrates the CSS clamp() functionality. 
 
