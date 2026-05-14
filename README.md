@@ -92,8 +92,8 @@ A link to all my GitHub projects with a short description of each.
 
 ### Configuration
 
-- **[nix-config](https://github.com/michaelbrusegard/nix-config)**  
-  Personal configuration/dotfiles for computers and servers running GNU/Linux, macOS and Windows, all managed with Nix.
+- **[infra](https://github.com/michaelbrusegard/infra)**
+  Personal configurations and dotfiles for personal computers, clusters and servers running GNU/Linux, macOS and Windows, all managed declaratively with Nix and GitOps
 
 - **[qmk_userspace](https://github.com/michaelbrusegard/qmk_userspace)**
   QMK keyboard configurations for my own custom split keyboards.
